@@ -19,7 +19,7 @@ Alert poof after tapping on its X icon <br>
 ## When you Win while playing with a Bot
 ![Screenshot 2023-03-18 6 04 33 PM](https://user-images.githubusercontent.com/96945592/226106682-644809ca-2e83-4e81-a599-5d2f53b6d636.png)
 
-## When the match ended as Draw while playing with a Bot[Screen recording 2023-03-18 6.38.13 PM.webm](https://user-images.githubusercontent.com/96945592/226108278-2afdb2ee-3521-45a2-9008-67bbc8dabb43.webm)
+## When the match ended as Draw while playing with a Bot
 
 ![Screenshot 2023-03-18 6 05 05 PM](https://user-images.githubusercontent.com/96945592/226106679-e69d00fb-ce92-4066-8afb-27247454453d.png)
 
